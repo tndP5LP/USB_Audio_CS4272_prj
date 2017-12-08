@@ -1,1 +1,4 @@
 # P5LP_USB_Audio_CS4272
+
+## To Edit a Component or Create a new one
+https://github.com/noeldiviney/P5LP_Development_repo/wiki/4-Editing-Component-Libraries-and-Test-Projects[See this Wiki Page]
